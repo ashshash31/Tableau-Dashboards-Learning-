@@ -1,0 +1,19 @@
+Basics Workbook 2 
+
+Objective: Analyse long-term unemployment rates with a focus on age and gender trends between 2005 and 2015 
+
+Key Learning Points: 
+- Worked with data extracts and understood when they are prefereable over live connections (e.g. when certain aggregations and level of detail (LOD) concepts in Tableau) 
+- Learned about granularity (level of detail in the data) and its impact on analysis
+- Gained understanding of aggregation and level of detail (LOD) concepts in Tableau 
+- Practised creating area charts, using the highlight feature and implementing filters 
+
+Visual Features 
+- Area Chart plotting the sum of unemployed people by month 
+- Colour encoding by age group 
+- Marks labelled by age group for clarity 
+- Filters applied: 
+-- Data Filter: Gender
+-- View filter: Age
+
+Purpose: Strengthened foundational Tableau skills while exploring dataset structuring, visual formatting, and interactivity for better storytelling
