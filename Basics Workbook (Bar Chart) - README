@@ -1,0 +1,18 @@
+## Basics Workbook (Bar Chart) 
+
+Objective: Analyse structured sales data to determine: 
+- The representative with the highest total sales overall (for bonus allocation) 
+- The representative with the highest sales amount in each region (for regional bonuses) 
+
+Visual Features: 
+- Sum of total sales per representative displayed 
+- Regions differentiated by distinct colours and grouped visually 
+- Clear labels for sales figures and representative names 
+
+Technical Elements Practised: 
+- Created calculated fields 
+- Applied colour coding by region 
+- Used labels for clarity 
+- Adjusted formatting for readability
+
+Purpose: First tableau project to explore basic features, practise interactivity and develop visual storytelling skills 
